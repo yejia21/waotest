@@ -5,4 +5,5 @@ Testing WAO application
 #2. CSG Sender
 #3. CSG Receiver
 #4: Handle error response.
-#5: add equipment changes. 
+#5: add equipment changes.
+#6: add service changes.
