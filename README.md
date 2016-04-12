@@ -7,3 +7,5 @@ Testing WAO application
 #4: Handle error response.
 #5: add equipment changes.
 #6: add service changes.
+#7...
+#8
